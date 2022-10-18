@@ -1,4 +1,4 @@
-# basicStudentDatabase2
+# basicStudentDatabase
 basic student database but objective
 
 ## General info
